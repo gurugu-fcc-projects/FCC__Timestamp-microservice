@@ -24,14 +24,6 @@ app.get("/api/:date", function (req, res) {
   const { date } = req.params;
   let timestamp;
 
-  console.log(date)
-  console.log(new Date(date));
-  console.log(new Date(date).getTime());
-
-  if (!isNaN(new Date(date).getTime())) {
-    timestamp = new Date(date);
-  } else {}
-
   if (new Date(date).getTime() > 0) {
     timestamp = new Date(date);
   } else if (new Date(+date).getTime() > 0) {
