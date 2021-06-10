@@ -1,0 +1,29 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp APIs and Microservices project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurugu-fcc-projects/FCC__Timestamp-microservice.git"
+  },
+  "keywords": [
+    "fcc",
+    "fcc-project",
+    "freecodemap",
+    "freecodecamp-project"
+  ],
+  "author": {
+    "name": "Peter Krevenets",
+    "github": "https://github.com/GuRuGuMaWaRu",
+    "linkedin": "https://www.linkedin.com/in/peter-krevenets-35b50b33/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurugu-fcc-projects/FCC__Timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/gurugu-fcc-projects/FCC__Timestamp-microservice#readme"
+}
